@@ -13,7 +13,7 @@ Possible parameters are:
 - **--payment**, specifying the monthly payment. This can only be provided for annuity payment, since the montly payments differ in differentiated payment
 - **--principal**, referring to the loan principal
 - **--periods**, referring to the number of months needed to repay the loan
-- **--interest** (always required), denoting the interest rate. It is spcified withour the %-sign
+- **--interest** (always required), denoting the interest rate. It is specified withour the %-sign
 
 The calculator is able to calculate either the monthly payment, or the loan principal, or the periods, depending on which parameter you do not provide when starting it.
 
